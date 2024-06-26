@@ -1,0 +1,10 @@
+body{  
+  background-image: url(https://help.gardeningexpress.co.uk/wp-content/uploads/2023/04/Untitled-design-1-1024x576.png);
+  background-size: cover; 
+  height: 100vh; /* Ensure full viewport height */
+  overflow: hidden; /* Prevent scrolling */
+  background-position: 0px 0px;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+}

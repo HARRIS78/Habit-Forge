@@ -1,0 +1,38 @@
+.challenge {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 50px; /* 100px / 16px = 6.25rem */
+    /* font-family: "Amatic SC", sans-serif; */
+    font-weight: 400;
+    /* font-style: normal; */
+    margin: 0.625rem; /* 10px / 16px = 0.625rem */
+  }
+  
+  .options{
+    
+    text-align: center;
+    font-size: 30px; /* 100px / 16px = 6.25rem */
+    /* font-family: "Amatic SC", sans-serif; */
+    font-weight: 400;
+    /* font-style: normal; */
+    margin: 20px;   /* 10px / 16px = 0.625rem8 */
+  }
+  
+  .option1{
+    color: aqua;
+  }
+  .option2{
+    color: lightskyblue;
+  }
+  .option3{
+    color: greenyellow;
+  }
+  .option4{
+    color: yellow;
+  }
+  .option5{
+    color: orange;
+  }
+  .option6{
+    color: orangered;
+  }
